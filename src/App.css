@@ -7,7 +7,7 @@
 }
 
 .container {
-    background: url('./public/img/bg.avif') no-repeat;
+    background: url('../img/bg.avif') no-repeat;
     background-size: 100vw;
     height: 100vh;
     display: flex;
