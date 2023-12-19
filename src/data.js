@@ -614,175 +614,175 @@ const data = [
     {
       "id": 103,
       "perguntas": "Quantas pragas foram enviadas ao Egito?",
-      "alternativas": "a) 7 Pragas b) 10 Pragas c) 3 Pragas",
+      "alternativas": ["a) 7 Pragas", "b) 10 Pragas", "c) 3 Pragas"],
       "respostas": "b) 10 Pragas. Referência bíblica: Êxodo capítulo 7 ao 10."
     },
     {
       "id": 104,
       "perguntas": "Quem foi lançado na cova dos leões?",
-      "alternativas": "a) Paulo b) José c) Daniel",
+      "alternativas": ["a) Paulo", "b) José", "c) Daniel"],
       "respostas": "c) Daniel. Referência bíblica: Daniel 6:16."
     },
     {
       "id": 105,
       "perguntas": "Qual instrumento Davi gostava de tocar?",
-      "alternativas": "a) Tambor b) Harpa c) Flauta",
+      "alternativas": ["a) Tambor", "b) Harpa", "c) Flauta"],
       "respostas": "b) Harpa. Referência bíblica: 1 Samuel 16:23."
     },
     {
       "id": 106,
       "perguntas": "Na parábola do semeador, quais sementes que cresceram e deram uma boa colheita?",
-      "alternativas": "a) As sementes que caíram nas pedras. b) As sementes que caíram em boa terra. c) As sementes que caíram entre os espinhos.",
+      "alternativas": ["a) As sementes que caíram nas pedras.", "b) As sementes que caíram em boa terra.", "c) As sementes que caíram entre os espinhos."],
       "respostas": "b) As sementes que caíram em boa terra. Referência bíblica: Mateus 13:23."
     },
     {
       "id": 107,
       "perguntas": "Jesus comparou o Reino de Deus a qual semente?",
-      "alternativas": "a) Ao grão de mostarda. b) Ao grão de milho. c) A semente de uva.",
+      "alternativas": ["a) Ao grão de mostarda.", "b) Ao grão de milho.", "c) A semente de uva."],
       "respostas": "a) Ao grão de mostarda. Referência bíblica: Mateus 13:31-32."
     },
     {
       "id": 108,
       "perguntas": "Quem são conhecidos como os patriarcas na Bíblia?",
-      "alternativas": "a) Jesus, Maria e José b) Pedro, João e Tiago c) Abraão, Isaque e Jacó",
+      "alternativas": ["a) Jesus, Maria e José", "b) Pedro, João e Tiago", "c) Abraão, Isaque e Jacó"],
       "respostas": "c) Abraão, Isaque e Jacó. Referência bíblica: Êxodo 3:6."
     },
     {
       "id": 109,
       "perguntas": "Quem foi o 'assistente' do profeta Elias?",
-      "alternativas": "a) Eliseu b) Enoque c) Jonas",
+      "alternativas": ["a) Eliseu", "b) Enoque", "c) Jonas"],
       "respostas": "Eliseu. Referência bíblica: 1 Reis 19:19-21."
     },
     {
       "id": 110,
       "perguntas": "Na transfiguração, quem apareceu ao lado de Jesus?",
-      "alternativas": "a) Enoque e Elias b) Elias e Moisés c) Abraão e Isaque",
+      "alternativas": ["a) Enoque e Elias", "b) Elias e Moisés", "c) Abraão e Isaque"],
       "respostas": "b) Elias e Moisés. Referência bíblica: Lucas 9:29-30."
     },
     {
       "id": 111,
       "perguntas": "Qual é o último capítulo da Bíblia?",
-      "alternativas": "a) Apocalipse 22 b) Apocalipse 16 c) Malaquias 4",
+      "alternativas": ["a) Apocalipse 22", "b) Apocalipse 16", "c) Malaquias 4"],
       "respostas": "b) Apocalipse 22"
     },
     {
       "id": 112,
       "perguntas": "O que aconteceu quando Paulo e Silas louvavam na prisão?",
-      "alternativas": "a) Houve um terremoto na prisão e todas as portas se abriram! b) Os saldados pediram para que os dois se calassem. c) Os dois foram agredidos pelos outros prisioneiros.",
+      "alternativas": ["a) Houve um terremoto na prisão e todas as portas se abriram!", "b) Os saldados pediram para que os dois se calassem.", "c) Os dois foram agredidos pelos outros prisioneiros."],
       "respostas": "a) Houve um terremoto na prisão e todas as portas se abriram! Referência bíblica: Atos 16:25-26."
     },
     {
       "id": 113,
       "perguntas": "Quem era a mãe de Samuel?",
-      "alternativas": "a) Isabel b) Maria c) Ana",
+      "alternativas": ["a) Isabel", "b) Maria", "c) Ana"],
       "respostas": "c) Ana. Referência bíblica: 1 Samuel 1:20."
     },
     {
       "id": 114,
       "perguntas": "Quem era a mãe de Ismael, filho de Abraão?",
-      "alternativas": "a) Sara b) Sete c) Hagar",
+      "alternativas": ["a) Sara", "b) Sete", "c) Hagar"],
       "respostas": "c) Hagar. Referência bíblica: Gênesis 16:15."
     },
     {
       "id": 115,
       "perguntas": "Quando Moisés foi colocado num cesto e lançado no rio, quem o encontrou?",
-      "alternativas": "a) A rainha de Sabá. b) A filha do faraó. c) Joquebede",
+      "alternativas": ["a) A rainha de Sabá.", "b) A filha do faraó.", "c) Joquebede"],
       "respostas": "b) A filha do faraó. Referência bíblica: Êxodo 2:5-6."
     },
     {
       "id": 116,
       "perguntas": "Quem foi o imperador da Babilônia?",
-      "alternativas": "a) Jeocaz b) Nabucodonosor c) Faraó",
+      "alternativas": ["a) Jeocaz", "b) Nabucodonosor", "c) Faraó"],
       "respostas": "b) Nabucodonosor. Referência bíblica: 2 Reis 24:1-2."
     },
     {
       "id": 117,
       "perguntas": "Quem negou Jesus 3 vezes?",
-      "alternativas": "a) Judas b) Pedro c) André",
+      "alternativas": ["a) Judas", "b) Pedro", "c) André"],
       "respostas": "b) Pedro. Referência bíblica: Marcos 14:72."
     },
     {
       "id": 118,
       "perguntas": "Como morreu Judas?",
-      "alternativas": "a) Assassinado b) Acidente c) Suicídio",
+      "alternativas": ["a) Assassinado", "b) Acidente", "c) Suicídio"],
       "respostas": "c) Suicídio. Referência bíblica: Mateus 27:5."
     },
     {
       "id": 119,
       "perguntas": "Qual foi o primeiro nome de Abraão?",
-      "alternativas": "a) Israel b) Abrão c) Adão",
+      "alternativas": ["a) Israel", "b) Abrão", "c) Adão"],
       "respostas": "b) Abrão. Referência bíblica: Gênesis 17:5."
     },
     {
       "id": 120,
       "perguntas": "Quanto tempo durou a chuva do dilúvio?",
-      "alternativas": "a) 7 dias e 7 noites b) 40 dias e 40 noites c) 3 dias e 3 noites",
+      "alternativas": ["a) 7 dias e 7 noites", "b) 40 dias e 40 noites", "c) 3 dias e 3 noites"],
       "respostas": "b) 40 dias e 40 noites. Referência bíblica: Gênesis 7:17."
     },
     {
       "id": 121,
       "perguntas": "Quem ajudou Jesus a carregar a cruz?",
-      "alternativas": "a) João b) Simão Cirineu c) Timóteo",
+      "alternativas": ["a) João", "b) Simão Cirineu", "c) Timóteo"],
       "respostas": "b) Simão Cirineu. Referência bíblica:Marcos 15:21."
     },
     {
       "id": 122,
       "perguntas": "Antes de ser Rei, qual era o trabalho de Davi?",
-      "alternativas": "a) Caçador b) Pastor de ovelhas c) Carpinteiro",
+      "alternativas": ["a) Caçador", "b) Pastor de ovelhas", "c) Carpinteiro"],
       "respostas": "Pastor de ovelhas"
     },
     {
       "id": 123,
       "perguntas": "Em que cidade nasceu Jesus?",
-      "alternativas": "a) Jerusalém b) Belém c) Samaria",
+      "alternativas": ["a) Jerusalém", "b) Belém", "c) Samaria"],
       "respostas": "b) Belém. Referência bíblica: Mateus 2:1."
     },
     {
       "id": 124,
       "perguntas": "O que acontece logo depois que Pedro negou a Jesus pela terceira vez?",
-      "alternativas": "a) o véu do templo se rasgou b) o céu ficou em trevas c) o galo cantou",
+      "alternativas": ["a) o véu do templo se rasgou", "b) o céu ficou em trevas", "c) o galo cantou"],
       "respostas": "c) o galo cantou. Referência bíblica: Mateus 26:74."
     },
     {
       "id": 125,
       "perguntas": "Sansão se apaixonou por qual mulher?",
-      "alternativas": "a) Rute b) Dalila c) Sara",
+      "alternativas": ["a) Rute", "b) Dalila", "c) Sara"],
       "respostas": "b) Dalila. Referência bíblica: Juízes 16:4."
     },
     {
       "id": 126,
       "perguntas": "Quem pediu para andar nas águas com Jesus?",
-      "alternativas": "a) Pedro b) Tiago c) João",
+      "alternativas": ["a) Pedro", "b) Tiago", "c) João"],
       "respostas": "a) Pedro. Referência bíblica: Mateus 14:28-29."
     },
     {
       "id": 127,
       "perguntas": "Lázaro foi ressuscitado depois de quantos dias?",
-      "alternativas": "a) 10 b) 3 c) 4",
+      "alternativas": ["a) 10", "b) 3", "c) 4"],
       "respostas": "c) 4. Referência bíblica: João 11:38-39."
     },
     {
       "id": 128,
       "perguntas": "Qual foi o primeiro nome do Apóstolo Paulo?",
-      "alternativas": "a) Saulo b) Tiago c) Barnabé",
+      "alternativas": ["a) Saulo", "b) Tiago", "c) Barnabé"],
       "respostas": "a) Saulo. Referência bíblica: Atos 9:4-5."
     },
     {
       "id": 129,
       "perguntas": "O que quer dizer \"Rabi\"?",
-      "alternativas": "a) Rei b) Pai c) Mestre",
+      "alternativas": ["a) Rei", "b) Pai", "c) Mestre"],
       "respostas": "c) Mestre. Referência bíblica: João 1:38."
     },
     {
       "id": 130,
       "perguntas": "Aquele que está em Cristo nova criatura é; as coisas velhas já passaram;...",
-      "alternativas": "a) eis que passaram da morte para a vida.\" b) eis que já ressuscitou dos mortos.\" c) eis que tudo se fez novo.",
+      "alternativas": ["a) eis que passaram da morte para a vida.", "b) eis que já ressuscitou dos mortos.", "c) eis que tudo se fez novo."],
       "respostas": "c) eis que tudo se fez novo.\" Referência bíblica: 2 Coríntios 5:17."
     },
     {
       "id": 131,
       "perguntas": "Quem subiu na árvore para ver Jesus passar?",
-      "alternativas": "a) Ananias b) Tadeu c) Zaqueu",
+      "alternativas": ["a) Ananias", "b) Tadeu", "c) Zaqueu"],
       "respostas": "c) Zaqueu. Referência bíblica: Lucas 19:2-5."
     },
     {
@@ -794,157 +794,157 @@ const data = [
     {
       "id": 133,
       "perguntas": "Qual foi o Apóstolo que ficou temporariamente cego?",
-      "alternativas": "a) Tiago b) Paulo c) Pedro",
+      "alternativas": ["a) Tiago", "b) Paulo", "c) Pedro"],
       "respostas": "b) Paulo enquanto se chamava Saulo. Referência bíblica: Atos 9:8"
     },
     {
       "id": 134,
       "perguntas": "Jesus curou 10 leprosos. Quantos voltaram para agradecer?",
-      "alternativas": "a) 10 b) 1 c) 3",
+      "alternativas": ["a) 10", "b) 1", "c) 3"],
       "respostas": "b) 1. Referência bíblica: Lucas 17:11-19."
     },
     {
       "id": 135,
       "perguntas": "Quem foi colocado num cesto e lançado no rio ainda quando era bebê?",
-      "alternativas": "a) Jesus b) Jonas c) Moisés",
+      "alternativas": ["a) Jesus", "b) Jonas", "c) Moisés"],
       "respostas": "c) Moisés. Referência bíblica: Êxodo 2:1-10."
     },
     {
       "id": 136,
       "perguntas": "Quem derrotou Golias?",
-      "alternativas": "a) Josué b) Sansão c) Davi",
+      "alternativas": ["a) Josué", "b) Sansão", "c) Davi"],
       "respostas": "c) Davi. Referência bíblica: 1 Samuel 17:50."
     },
     {
       "id": 137,
       "perguntas": "Qual era o nome da montanha onde Moisés recebeu os 10 Mandamentos?",
-      "alternativas": "a) Monte Horebe b) Monte Sinai c) Monte das Oliveiras",
+      "alternativas": ["a) Monte Horebe", "b) Monte Sinai", "c) Monte das Oliveiras"],
       "respostas": "b) Monte Sinai. Referência bíblica: Êxodo 19:18."
     },
     {
       "id": 138,
       "perguntas": "Quem se tornou uma coluna de sal depois que olhou para trás?",
-      "alternativas": "a) Maria Madalena b) Mulher de Ló c) Nabucodonosor",
+      "alternativas": ["a) Maria Madalena", "b) Mulher de Ló", "c) Nabucodonosor"],
       "respostas": "b) Mulher de Ló. Referência bíblica: Gênesis 19:26."
     },
     {
       "id": 139,
       "perguntas": "Quem foi escolhido pelos discípulos para substituir Judas Iscariotes ?",
-      "alternativas": "a) Matias b) Paulo c) Barnabé",
+      "alternativas": ["a) Matias", "b) Paulo", "c) Barnabé"],
       "respostas": "a) Matias. Referência bíblica: Atos 1:26."
     },
     {
       "id": 140,
       "perguntas": "Qual animal falou com Balaão?",
-      "alternativas": "a) Doguinho caramelo b) Jumenta c) Tartaruga Ninja",
+      "alternativas": ["a) Doguinho caramelo", "b) Jumenta", "c) Tartaruga Ninja"],
       "respostas": "b) Jumenta. Referência bíblica: Números 22:28."
     },
     {
       "id": 141,
       "perguntas": "Qual o nome e a idade da pessoa mais velha mencionada na Bíblia?",
-      "alternativas": "A) Enos, viveu 905 anos\nB) Noé, viveu 990 anos\nC) Matusalém, viveu 969 anos\nD) Rainha Ester, viveu 859 anos",
+      "alternativas": ["A) Enos, viveu 905 anos", "B) Noé, viveu 990 anos", "C) Matusalém, viveu 969 anos", "D) Rainha Ester, viveu 859 anos"],
       "respostas": "Letra C - Matusalém (ou Metusalém) viveu 969 anos. Ele era filho de Enoque, que andou com Deus e foi o avô de Noé."
     },
     {
       "id": 142,
       "perguntas": "Qual desses não teve o seu nome mudado na Bíblia?",
-      "alternativas": "A) Sara\nB) Abraão\nC) Jacó\nD) Davi\nE) Pedro",
+      "alternativas": ["A) Sara", "B) Abraão", "C) Jacó", "D) Davi", "E) Pedro"],
       "respostas": "Letra D - Davi não teve seu nome mudado. Sara era Sarai (Gn.17:15), Abraão era Abrão (Gn. 17:5), Jacó tornou-se Israel (Gn. 32.28) e Pedro era Simão (João 1:42)"
     },
     {
       "id": 143,
       "perguntas": "Qual dos nomes de Deus Moisés deveria dar aos israelitas, quando falasse de quem tinha lhe enviado?",
-      "alternativas": "A) \"Elohim\"\nB) \"El Shadday\"\nC) \"Eu sou o que sou\"\nD) \"Eu sou o Senhor",
+      "alternativas": ["A) Elohim", "B) El Shadday", "C) Eu sou o que sou", "D) Eu sou o Senhor"],
       "respostas": "Letra C - \"Eu sou o que Sou\" foi a resposta dada por Deus a Moisés, quando perguntou sobre o Seu nome. Cf. Êxodo 3:13-14."
     },
     {
       "id": 144,
       "perguntas": "Sobre Samuel, o que não é verdade?",
-      "alternativas": "A) Sua mãe se chamava Ana\nB) Ungiu 3 reis de Israel: José, Saul e Davi\nC) Sucedeu o profeta Eli\nD) Teve uma visão enquanto ainda era muito novo",
+      "alternativas": ["A) Sua mãe se chamava Ana", "B) Ungiu 3 reis de Israel: José, Saul e Davi", "C) Sucedeu o profeta Eli", "D) Teve uma visão enquanto ainda era muito novo"],
       "respostas": "Letra B - O profeta Samuel ungiu a Saul e Davi como reis de Israel. José não foi rei. Foi governador no Egito muitos anos antes."
     },
     {
       "id": 145,
       "perguntas": "Enquanto pastor de ovelhas, Davi protegeu seu rebanho de dois animais perigosos. Quais?",
-      "alternativas": "A) serpente e dromedário\nB) urso e leão\nC) cobra e lobo\nD) urso e escorpião",
+      "alternativas": ["A) serpente e dromedário", "B) urso e leão", "C) cobra e lobo", "D) urso e escorpião"],
       "respostas": "Letra B - Um leão e um urso foram os animais que Davi matou. Cf. 1 Samuel 17:34-37"
     },
     {
       "id": 146,
       "perguntas": "Qual o nome da ilha onde João escreveu o livro de Apocalipse?",
-      "alternativas": "A) Ilha de Creta\nB) Ilha de Malta\nC) Ilha de Patmos\nD) Ilha de Pérgamo",
+      "alternativas": ["A) Ilha de Creta", "B) Ilha de Malta", "C) Ilha de Patmos", "D) Ilha de Pérgamo"],
       "respostas": "Letra C - Na ilha de Patmos, João teve a visão do que acontecerá no final dos tempos. Cf. Apocalipse 1:9"
     },
     {
       "id": 147,
       "perguntas": "Deus mandou que Abraão olhasse para o quê, quando lhe fez uma promessa?",
-      "alternativas": "A) Para o arco-íris no céu, símbolo da aliança com Abraão\nB) Para a areia do mar, para que contasse os grãos de areia, se pudesse\nC) Para as estrelas do céu, para que as contasse, se pudesse\nD) Para a floresta da terra prometida, para contar as árvores frutíferas",
+      "alternativas": ["A) Para o arco-íris no céu, símbolo da aliança com Abraão", "B) Para a areia do mar, para que contasse os grãos de areia, se pudesse", "C) Para as estrelas do céu, para que as contasse, se pudesse", "D) Para a floresta da terra prometida, para contar as árvores frutíferas"],
       "respostas": "Letra C - Deus mandou contar as estrelas do céu, se é que ele poderia contá-las, como uma ilustração da grande descendência que daria a Abraão através de Isaque."
     },
     {
       "id": 148,
       "perguntas": "Quem eram os dois irmãos de Moisés?",
-      "alternativas": "A) Esaú e Jacó\nB) Miriã e Arão\nC) Josué e Calebe\nD) Priscila e Áquila",
+      "alternativas": ["A) Esaú e Jacó", "B) Miriã e Arão", "C) Josué e Calebe", "D) Priscila e Áquila"],
       "respostas": "Letra B - Miriã (ou Miriam) e Arão (Aarão) eram os irmãos de Moisés. Cf. Êxodo 15:20-21 e Êxodo 6:16-20."
     },
     {
       "id": 149,
       "perguntas": "1. A Bíblia é composta por quantos livros?",
-      "alternativas": "A) 88 livros\nB) 37 livros\nC) 66 livros\nD) 100 livros",
+      "alternativas": ["A) 88 livros", "B) 37 livros", "C) 66 livros", "D) 100 livros"],
       "respostas": "Letra C - A Bíblia é uma coletânea composta por 66 livros, que foram escritos em hebraico, aramaico e grego e vai de Gênesis a Apocalipse."
     },
     {
       "id": 150,
       "perguntas": "De acordo com 2 Timóteo 3:16, toda a Escritura é:",
-      "alternativas": "A) ditada por Deus, letra por letra\nB) baseada nos sonhos dos profetas e apóstolos\nC) inspirada por Deus e útil para seus propósitos\nD) transcrita por anjos para ensinar aos homens",
+      "alternativas": ["A) ditada por Deus, letra por letra", "B) baseada nos sonhos dos profetas e apóstolos", "C) inspirada por Deus e útil para seus propósitos", "D) transcrita por anjos para ensinar aos homens"],
       "respostas": "Letra C - Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça. (2 Timóteo 3:16)"
     },
     {
       "id": 151,
       "perguntas": "A Bíblia é dividida em:",
-      "alternativas": "A) 3 partes: Pentateuco, livros históricos e Evangelhos\nB) 2 partes: Antigo Testamento e Novo Testamento\nC) 3 partes: Velho Testamento, Salmos e Novo Testamento\nD) 2 partes: Livros da Lei e Apocalipse",
+      "alternativas": ["A) 3 partes: Pentateuco, livros históricos e Evangelhos", "B) 2 partes: Antigo Testamento e Novo Testamento", "C) 3 partes: Velho Testamento, Salmos e Novo Testamento", "D) 2 partes: Livros da Lei e Apocalipse"],
       "respostas": "Letra B - A Bíblia é dividida em Antigo e Novo Testamentos, uma separação dos livros escritos antes e depois de Jesus Cristo. O Velho Testamento é formado por 39 livros e vai de Gênesis a Malaquias. O Novo Testamento é composto de 27 livros e vai de Mateus até Apocalipse."
     },
     {
       "id": 152,
       "perguntas": "Qual é o menor versículo da Bíblia?",
-      "alternativas": "A) João 11:35\nB) Ester 8:9\nC) Êxodo 20:13\nD) Jó 3:2",
+      "alternativas": ["A) João 11:35", "B) Ester 8:9", "C) Êxodo 20:13", "D) Jó 3:2"],
       "respostas": "Letra D - Considerando o número de caracteres em nosso idioma, Jó 3:2 é o menor: \"Disse Jó:\" - (versão Almeida Revista Atualizada -ARA), ou \"dizendo:\" (Nova Versão Internacional-NVI), contendo apenas 7 caracteres."
     },
     {
       "id": 153,
       "perguntas": "Qual é o maior e o menor capítulos da Bíblia?",
-      "alternativas": "A) O maior capítulo é de Isaías 66 e o menor capítulo é Salmo 2\nB) O maior é o Salmo 119 e o menor é o Salmo 117\nC) O maior capítulo é Lamentações de Jeremias 3 e o menor é 2ª carta de João\nD) O maior é o Salmo 150 e o menor é Judas 1",
+      "alternativas": ["A) O maior capítulo é de Isaías 66 e o menor capítulo é Salmo 2", "B) O maior é o Salmo 119 e o menor é o Salmo 117", "C) O maior capítulo é Lamentações de Jeremias 3 e o menor é 2ª carta de João", "D) O maior é o Salmo 150 e o menor é Judas 1"],
       "respostas": "Letra B - De acordo com os originais, o Salmo 119 é o mais extenso capítulo de toda a Bíblia. Trata-se de um salmo didático, formado por acróstico do alfabeto hebraico e possui 176 versículos. Já o menor capítulo é o Salmo 117. Trata-se de um hino de louvor ao Senhor, com 2 versos apenas."
     },
     {
       "id": 154,
       "perguntas": "Com que idade Jesus começou seu ministério?",
-      "alternativas": "A) Com aproximadamente 30 anos\nB) Com 18 anos\nC) Com 12 anos\nD) Com aproximadamente 7 anos",
+      "alternativas": ["A) Com aproximadamente 30 anos", "B) Com 18 anos", "C) Com 12 anos", "D) Com aproximadamente 7 anos"],
       "respostas": "Letra A - Jesus iniciou seu ministério com cerca de 30 anos. Cf. Lucas 3:23. Entre os judeus por volta dessa idade é que um homem era considerado maduro."
     },
     {
       "id": 155,
       "perguntas": "O nome de Jesus é o nome acima de todo os nomes (Fp. 2:9). Cristo significa:",
-      "alternativas": "A) O sobrenome que Jesus recebeu da família de José, seu pai terreno.\nB) \"Ungido\", \"consagrado\" do grego, equivalente a 'Messias' no hebraico.\nC) Um nome da família de Maria que Jesus recebeu na infância.\nD) Um título hebraico que significa: Rei dos judeus.",
+      "alternativas": ["A) O sobrenome que Jesus recebeu da família de José, seu pai terreno.", "B) Ungido, consagrado do grego, equivalente a 'Messias' no hebraico.", "C) Um nome da família de Maria que Jesus recebeu na infância.", "D) Um título hebraico que significa: Rei dos judeus."],
       "respostas": "Letra B - Cristo é o título derivado do grego que significa o \"Ungido, consagrado\", equivalente a Messias, do hebraico. Com o tempo, unido a Jesus deu a forma de nome próprio do Senhor Jesus Cristo."
     },
     {
       "id": 156,
       "perguntas": "Qual mulher foi tida por bêbada enquanto orava pedindo um filho ao Senhor?",
-      "alternativas": "A) Raquel\nB) Ana\nC) Abigail\nD) Sara",
+      "alternativas": ["A) Raquel", "B) Ana", "C) Abigail", "D) Sara"],
       "respostas": "Letra B - Ana orou e chorou diante de Deus, mas o sacerdote Eli pensou que estivesse embriagada. Ver 1 Samuel 1:9-14."
     },
     {
       "id": 157,
       "perguntas": "Quem era a mulher que ameaçou de morte ao profeta Elias?",
-      "alternativas": "A) Jerusa\nB) A médium de En-Dor\nC) Jezabel\nD) A viúva de Sarepta",
+      "alternativas": ["A) Jerusa", "B) A médium de En-Dor", "C) Jezabel", "D) A viúva de Sarepta"],
       "respostas": "Letra C - A rainha Jezabel, esposa de Acabe, depois do confronto com os 450 profetas de Baal no monte Carmelo. Ver 1 Reis 19:1-3."
     },
     {
       "id": 158,
       "perguntas": "Quem foi a jovem que deu água a Eliezer e aos seus camelos, na Mesopotâmia?",
-      "alternativas": "A) Milca\nB) Raquel\nC) Rute\nD) Rebeca",
+      "alternativas": ["A) Milca", "B) Raquel", "C) Rute", "D) Rebeca"],
       "respostas": "Letra D - Rebeca, a bonita jovem que tirava água na fonte deu água ao servo de Abraão e aos seus camelos. Ver: Gênesis 24:15-19."
     },
     {
@@ -956,19 +956,19 @@ const data = [
     {
       "id": 160,
       "perguntas": "Qual era o ofício (profissão) de Priscila?",
-      "alternativas": "A) Vendedora de tecido de púrpura\nB) Fabricante de tendas\nC) Fabricante de ídolos\nD) Costureira de vestidos",
+      "alternativas": ["A) Vendedora de tecido de púrpura", "B) Fabricante de tendas", "C) Fabricante de ídolos", "D) Costureira de vestidos"],
       "respostas": "Letra B - Priscila e Áquila, seu marido, eram fabricantes de tendas. Ver: Atos 18:2-3."
     },
     {
       "id": 161,
       "perguntas": "Qual o nome da nora de Noemi?",
-      "alternativas": "A) Joquebede\nB) Isabel\nC) Rute\nD) Raquel\nE) Ana",
+      "alternativas": ["A) Joquebede", "B) Isabel", "C) Rute", "D) Raquel", "E) Ana"],
       "respostas": "Letra C - Rute era a nora de Noemi, moabita que se converteu e tornou-se numa ascendente da linhagem real de Davi. Ver: Rute 1-4."
     },
     {
       "id": 162,
       "perguntas": "Qual dos profetas fez flutuar o ferro de um machado?",
-      "alternativas": "A) Elias\nB) Eliseu\nC) Isaías\nD) Ezequiel",
+      "alternativas": ["A) Elias", "B) Eliseu", "C) Isaías", "D) Ezequiel"],
       "respostas": "Letra B - Eliseu foi quem fez flutuar um machado. Foi sucessor de Elias e realizou muitos milagres nos tempos do Antigo Testamento. Ver: 2 Reis 6:1-7."
     }
   ]
